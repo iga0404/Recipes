@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_light">#35E1D1</color>
+    <color name="teal">#009A8C</color>
+    <color name="dark_green">#00322D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#009A8C</color>
+    <color name="colorPrimaryDark">#00322D</color>
+    <color name="colorAccent">#35E1D1</color>
+    <color name="bright_sun">#D2F378</color>
+    <color name="blue_sky">#1e7ac7</color>
+    <color name="sunset_sky">#ec8100</color>
+    <color name="night_sky">#05192e</color>
+    <color name="sea">#224869</color>
+</resources>

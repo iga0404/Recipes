@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CookBook App</string>
+    <string name="title_activity_main">Ekran Główny</string>
+    <string name="start">Start</string>
+    <string name="title_activity_dish_detail" />
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="kat1_tab">Home</string>
+    <string name="kat2_tab">Potrawy wegetariańskie</string>
+    <string name="kat3_tab">Potrawy mięsne</string>
+    <string name="app_description">Aplikacja służąca do przeglądania przepisów kuchennych. Autorzy: Iga Pietrusiewicz 148162, Piotr Polcyn 148100.</string>
+    <string name="app_name_pl">Książka kucharska</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="app_header_pl">Książka kucharska</string>
+</resources>
